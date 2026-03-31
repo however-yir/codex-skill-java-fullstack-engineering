@@ -1,5 +1,10 @@
 # java-fullstack-engineering
 
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
+[![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-java-fullstack-engineering)
+[![Last Commit](https://img.shields.io/github/last-commit/however-yir/codex-skill-java-fullstack-engineering?style=flat-square)](https://github.com/however-yir/codex-skill-java-fullstack-engineering/commits/main)
+
 > Production-minded Java full-stack engineering for Spring Boot, SQL, and admin-style systems.
 
 中文简介：这是一个面向 Java 全栈工程场景的 Codex skill，适合 Spring Boot、SQL、后台系统接口治理、性能优化、重构和项目加固。
