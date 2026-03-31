@@ -1,7 +1,5 @@
 # java-fullstack-engineering
 
-[English](./README.md)
-
 > Production-minded Java full-stack engineering for Spring Boot, SQL, and admin-style systems.
 
 中文简介：这是一个面向 Java 全栈工程场景的 Codex skill，适合 Spring Boot、SQL、后台系统接口治理、性能优化、重构和项目加固。
