@@ -1,5 +1,9 @@
 # java-fullstack-engineering
 
+🔥 A Codex skill for production-minded Java full-stack engineering with Spring Boot and SQL.  
+🚀 Covers API cleanup, schema tuning, performance hardening, and backend/frontend integration.  
+⭐ Helps transform student projects into professional, interview-ready engineering assets.
+
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
 [![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-java-fullstack-engineering)
